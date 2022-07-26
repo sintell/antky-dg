@@ -13,8 +13,14 @@
 
 [[Personal Home/Articles/About|Подробнее обо мне можно узнать тут]]
 
-У меня есть Twitter и Linked In
+---
 
+#### У меня есть Twitter и Linked In
+ 
+`rir:Twitter` https://twitter.com/sinntell
+`rir:Linkedin` https://linkedin/a.anatskiy
+
+---
 
 #### Иногда я пишу статьи в блог, и ниже будет их список
 [[Personal Home/Articles/5 способов выйти из Vim|5 способов выйти из Vim]] 
