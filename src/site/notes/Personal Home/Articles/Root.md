@@ -6,7 +6,7 @@
 # Привет, меня зовут Лёша!
 ## Hi, my name is Aleksei
 
-
+- - -
 
 ### Я работаю в hh.ru
 ### Руковожу frontend-разработкой, на позиции Frontend Tech Lead
