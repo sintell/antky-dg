@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-home/articles/wishlist/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"wishlist","permalink":"/wishlist/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Wishlist
