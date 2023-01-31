@@ -138,8 +138,8 @@
 
 
 Установи git
-	1.  Найди инструкцию для установки на свою ОС
-	2. Выполни все шаги из инструкции
+1.  Найди инструкцию для установки на свою ОС
+2. Выполни все шаги из инструкции
 
 Пройди [курс по git на Hexlet](https://ru.hexlet.io/courses/intro_to_git/lessons/intro/theory_unit)
 
@@ -181,9 +181,9 @@
 1. [Итераторы](https://www.geeksforgeeks.org/iterators-in-python/) и [Генераторы](https://www.geeksforgeeks.org/generator-expressions/)
 2. [Интерактивный курс по RegExp](https://regexone.com/),  [RegExp в Python](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 3. [OOP в Python](https://www.geeksforgeeks.org/python-oops-concepts/)
-		1. Классы
-		2. Наследование
-		3. Методы
+	1. Классы
+	2. Наследование
+	3. Методы
 4. Работа с аргументами CLI
 	1. [Встроенный пакет argparse](https://docs.python.org/3/library/argparse.html)
 
@@ -225,17 +225,17 @@
 
 
 Изучи более сложные темы языка Python
-	1. [Асинхронный питон](https://habr.com/ru/post/337420/) и asyncio
-	2. Тестирование python-приложений
+1. [Асинхронный питон](https://habr.com/ru/post/337420/) и asyncio
+2. Тестирование python-приложений
 
 Разберись как можно выполнять запросы к серверным приложениям
-	1. Postman
-	2. CURL
+1. Postman
+2. CURL
 
 Опционально: найди дополнительные материалы по git, стоит разобраться со следующими понятиями
-	1. git rebase
-	2. git reflog
-	3. github flow
+1. git rebase
+2. git reflog
+3. github flow
 
 ### Задание для самопроверки:
 
@@ -269,26 +269,26 @@
 Начни изучать документацию к backend-фреймворку FastApi
 
 Познакомься с концепцией реляционных баз данных
-	1. [SQL](https://stepik.org/course/63054), [интерактивный тренажер SQL](https://sqlbolt.com/)
-	2. SQLite
-	3. Postgresql
+1. [SQL](https://stepik.org/course/63054), [интерактивный тренажер SQL](https://sqlbolt.com/)
+2. SQLite
+3. Postgresql
 
 Познакомься с концепцией хостинга, найди бесплатный хостинг для своих проектов и зарегистрируй аккаунт
 
 Опционально: познакомься с концепцией DevOps
-	1. [Познакомься с принципами контейнеризации и утилитой Docker](https://cloud.yandex.ru/blog/posts/2022/03/docker-containers)
-	2. Познакомься с утилитой docker-compose
-	3. Придумай способ, которорым ты будешь синхронизировать github-репозиторий с хостингом
+1. [Познакомься с принципами контейнеризации и утилитой Docker](https://cloud.yandex.ru/blog/posts/2022/03/docker-containers)
+2. Познакомься с утилитой docker-compose
+3. Придумай способ, которорым ты будешь синхронизировать github-репозиторий с хостингом
 
 Изучи дополнительные концепции в построение клиент-серверной архитектуры:
-	1. REST
-	2. Cookies
-	3. Авторизация и аутентификация
-		1. JWT
-		2. OAuth-2
-	4. SSL
-		1. Сертификаты и HTTPS
-		2. Получение сертификата через  lets-encrypt
+1. REST
+2. Cookies
+3. Авторизация и аутентификация
+	1. JWT
+	2. OAuth-2
+4. SSL
+	1. Сертификаты и HTTPS
+	2. Получение сертификата через  lets-encrypt
 
 ## Задание для самопроверки
 
