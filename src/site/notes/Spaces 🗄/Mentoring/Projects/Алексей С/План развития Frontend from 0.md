@@ -94,12 +94,12 @@
 - [What The Flexbox!](https://flexbox.io/)
 
 ### JavaScript
-- https://roadmap.sh/javascript
-- https://javascript.info/
+- [roadmap.sh/javascript](https://roadmap.sh/javascript)
+- [javascript.info](https://javascript.info/)
 
 
 > [!TIP]- Попробуем тестовое задание Aviasales
-> https://github.com/KosyanMedia/test-tasks/tree/master/aviasales_frontend
+> [Ссылка на репозиторий](https://github.com/KosyanMedia/test-tasks/tree/master/aviasales_frontend)
 > 
 > - Используй чистый JS, SCSS, BEM
 > - Код в репозиторий на github
@@ -170,12 +170,15 @@
 ### Задание для самопроверки:
 
 > [!TIP]- Разрабатываем микро ui-kit и тестируем его
-> В рамках задачи нужно разработать UI Kit из 5 компоннетов и для каждого из компонентов написать unit-testы:
+> В рамках задачи нужно разработать UI Kit из 5 компоннетов и для каждого из компонентов написать unit-test’ы:
 > - Кнопка
 > - Поле ввода
 > - Карточка
 > - Параграф текста
-> - 
+> - Саджест
+> 
+> [Макеты](https://www.figma.com/file/VfzoTpzeY4RjMsfRrJZ5Uj/career.ru_mvp?node-id=681:125082&t=TnGRUjZVZig5mnAH-0)
+> Подробное описание текстом
 
 ## Шаг 4.5: Typescript
 
@@ -195,8 +198,9 @@
 ### Задание для самопроверки:
 
 > [!TIP]- Типизируем micro ui-kit
-> В рамках задачи нужно разработать 
-
+> В рамках задачи нужно внедрить типизацию в наш микро ui-kit
+>  - Настрой проверку и транспиляцию в Vite 
+>  - Опиши все необходимые типы для компонентов
 
 ## Шаг 5: Наработка опыта и портфолио
 
