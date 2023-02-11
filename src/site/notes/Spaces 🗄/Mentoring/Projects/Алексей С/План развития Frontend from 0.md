@@ -4,7 +4,7 @@
 
 # План развития Frontend
 
-Основан на https://roadmap.sh/frontend
+Основан на [roadmap.sh/frontend](https://roadmap.sh/frontend)
 Справочный материал по основам программирования на русском: [hexlet.ru/introduction_to_programming](https://hexlet.ru/introduction_to_programming)
 Справочный материал по фронтенду и веб-разработке: [doka.guide](https://doka.guide)
 
