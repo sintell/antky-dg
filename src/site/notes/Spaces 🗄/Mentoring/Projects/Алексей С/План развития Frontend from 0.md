@@ -221,9 +221,9 @@
 
 > [!TIP]- Выполни несколько beginners-free задач в библиотеках на свой выбор
 > Рекомендации по тому, где найти задачи для Open Source:
-> - https://up-for-grabs.net/#
-> - https://github.com/MunGell/awesome-for-beginners
-> - https://github.com/topics/good-first-issue
+> - [https://up-for-grabs.net/#](https://up-for-grabs.net/#)
+> - [https://github.com/MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+> - [https://github.com/topics/good-first-issue](https://github.com/topics/good-first-issue)
 
 ## Шаг 6: Подготовка к собеседованиям
 
@@ -241,6 +241,8 @@
 ### Задание для самопроверки
 
 > [!TIP]- Пройди тестовое собеседование
+> Повтори базовые знания HTML, CSS, JS
+> Пройдись по разделам [гайда для собеседований](https://www.frontendinterviewhandbook.com/)
 > 
 
 > [!TIP]- Выбери интересные вакансии
