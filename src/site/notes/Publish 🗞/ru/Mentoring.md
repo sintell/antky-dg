@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/ru/mentoring/","tags":["site, mentoring"]}
+{"dg-publish":true,"permalink":"/publish/ru/mentoring/","tags":["site","mentoring"]}
 ---
 
 # Менторство
