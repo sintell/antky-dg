@@ -36,6 +36,6 @@
 Вложения в opensource-проекты однозначно покажут, что вы заинтересованы в разработке, можете разобраться с чужим кодом, а не только писать свой, можете коммуницировать с другими разработчиками
 
 Рекомендации по тому, где найти задачи для Open Source:
-- https://up-for-grabs.net/#/
-- https://github.com/MunGell/awesome-for-beginners
-- https://github.com/topics/good-first-issue
+- [https://up-for-grabs.net/#/](https://up-for-grabs.net/#/)
+- [https://github.com/MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+- [https://github.com/topics/good-first-issue](https://github.com/topics/good-first-issue)
