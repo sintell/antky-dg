@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/ru/antki-aleksej-anaczkij/","tags":["site","x/index","gardenEntry"]}
+{"dg-publish":true,"permalink":"/publish/ru/antki-aleksej-anaczkij/","tags":["site","x/index","gardenEntry"],"updated":"2025-01-06T23:45:29.114+04:00"}
 ---
 
 ![avatar.jpg|300](/img/user/Publish%20%F0%9F%97%9E/attachments/avatar.jpg)
@@ -27,6 +27,8 @@
 [[Publish 🗞/ru/Рекомендации по оформлению профиля на github\|Рекомендации по оформлению профиля на github]]
 [[Publish 🗞/ru/My Obsidian Notemaking — 2025-01-06\|My Obsidian Notemaking — 2025-01-06]]
 [[Publish 🗞/ru/Obsidian Data View — 2025-01-06\|Obsidian Data View — 2025-01-06]]
+
+#### Мои статьи на других ресурсах
 [Прикладные советы для сильного CV](https://habr.com/ru/company/hh/blog/710446/)
 
 

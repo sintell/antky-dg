@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mentoring/5523360e83702b1b0f8df622343461ee0e71c83bdb9b1d52c402ec2133b114fc/frontend-plan","permalink":"/mentoring/5523360e83702b1b0f8df622343461ee0e71c83bdb9b1d52c402ec2133b114fc/frontend-plan/"}
+{"dg-publish":true,"dg-permalink":"mentoring/5523360e83702b1b0f8df622343461ee0e71c83bdb9b1d52c402ec2133b114fc/frontend-plan","permalink":"/mentoring/5523360e83702b1b0f8df622343461ee0e71c83bdb9b1d52c402ec2133b114fc/frontend-plan/","updated":"2024-05-13T03:25:01.660+04:00"}
 ---
 
 # План развития Frontend

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/ru/about/","tags":["site","about"]}
+{"dg-publish":true,"permalink":"/publish/ru/about/","tags":["site","about"],"updated":"2024-05-13T03:25:01.633+04:00"}
 ---
 
 ![avatar.jpg](/img/user/Publish%20%F0%9F%97%9E/attachments/avatar.jpg)

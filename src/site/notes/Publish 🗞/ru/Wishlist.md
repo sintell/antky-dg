@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"wishlist","permalink":"/wishlist/","tags":["site"]}
+{"dg-publish":true,"dg-permalink":"wishlist","permalink":"/wishlist/","tags":["site"],"updated":"2024-05-13T03:25:01.633+04:00"}
 ---
 
 

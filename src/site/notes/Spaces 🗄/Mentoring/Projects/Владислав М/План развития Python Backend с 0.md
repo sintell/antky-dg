@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mentoring/bedaa658de769b9a51be7dff71a19deb805818c00232f0c7a72281dfa7eb6047/backend-plan","permalink":"/mentoring/bedaa658de769b9a51be7dff71a19deb805818c00232f0c7a72281dfa7eb6047/backend-plan/"}
+{"dg-publish":true,"dg-permalink":"mentoring/bedaa658de769b9a51be7dff71a19deb805818c00232f0c7a72281dfa7eb6047/backend-plan","permalink":"/mentoring/bedaa658de769b9a51be7dff71a19deb805818c00232f0c7a72281dfa7eb6047/backend-plan/","updated":"2024-05-13T03:25:01.660+04:00"}
 ---
 
 # План развития Backend from 0

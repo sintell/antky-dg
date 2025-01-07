@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/ru/zachem-bash-razrabotchiku/","tags":["note/article","on/bash"]}
+{"dg-publish":true,"permalink":"/publish/ru/zachem-bash-razrabotchiku/","tags":["note/article","on/bash"],"updated":"2024-05-13T03:25:01.633+04:00"}
 ---
 
 # Зачем bash – разработчику

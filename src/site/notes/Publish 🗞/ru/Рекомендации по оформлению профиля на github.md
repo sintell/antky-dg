@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/ru/rekomendaczii-po-oformleniyu-profilya-na-github/","tags":["note/article"]}
+{"dg-publish":true,"permalink":"/publish/ru/rekomendaczii-po-oformleniyu-profilya-na-github/","tags":["note/article"],"updated":"2024-05-13T03:25:01.633+04:00"}
 ---
 
 # Github recommendations
